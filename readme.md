@@ -1,13 +1,50 @@
-<h1>Arvik os</h1>
-<p>El proyecto aquí descrito tiene como propósito desarrolla un Sistema Operativo que lleva por nombre “Arvik”, creado a partir del conocimiento y las instrucciones que emos adquiridos como grupo a lo largo de esta asignatura. Este dinamismo dio origen con el conocimiento que buscamos aplicar los fundamentos teóricos y pasarlo a la practica con el diseño e implementación de un sistema operativo que, de las funciones básicas, por el cual reforzaremos los conocimientos que aprendimos al llevar la asignación. 
+# Arvik OS 🖥️
 
-Por medio de la construcción de lo que conocemos por “Arvik”, nos exploramos a los componentes esenciales de un sistema operativo, las herramientas de las cuales emplearemos como ser los lenguajes para programarlo (JavaScript, HTML, CSS), la gestión de los diferentes procesos necesarios para su función, también ponemos aprueba nuestra comprensión de todos los elementos que sean necesarios para llevar a cabo todo este proceso. Este proyecto representa un escalón significativo en nuestra formación, permitiéndonos integrar conceptos clave mientras desarrollamos una solución.
-</p>
-<h2>Integrantes</h2>
-<ul>
-<li>Angie Leusyeli Barahona Padilla</li> <br>
-<li>Ingrid Daniela Cáceres Castro</li> <br>
-<li>Katerine Gisseth Henriquez Romero</li><br>
-<li>Ruben Isai Quiroz Zuniga</li><br>
-<li>Víctor Hugo López Hernández</li>
-</ul>
+**Arvik OS** es un proyecto académico cuyo propósito es construir un sistema operativo simulado, desarrollado con tecnologías web. Este entorno pretende reproducir los elementos esenciales de un sistema operativo moderno, permitiendo al usuario interactuar con ventanas, aplicaciones y funcionalidades básicas como calculadora, calendario, explorador de archivos, entre otros.
+
+## 🧠 Propósito del Proyecto
+
+Este proyecto surge del deseo de aplicar los fundamentos teóricos adquiridos en clase al desarrollo práctico de un entorno tipo sistema operativo. El objetivo es reforzar nuestra comprensión sobre la estructura y funcionamiento de un OS mediante tecnologías como:
+
+- **HTML, CSS, JavaScript**
+- **Gestión de ventanas personalizadas**
+- **Simulación de aplicaciones de sistema**
+- **Gestión de eventos, procesos, y tareas**
+
+## ⚙️ Características Principales
+
+- Escritorio interactivo con fondo personalizable
+- Barra de tareas inferior con íconos de acceso a apps
+- Barra superior con reloj, botones de cierre de sesión, y más
+- Aplicaciones simuladas:
+  - 🧮 Calculadora
+  - 📂 Explorador de Archivos
+  - 📸 Cámara (visor de imágenes)
+  - 📹 Editor de Video
+  - 📋 Bloc de Notas
+  - 📅 Calendario con eventos
+  - 🖥️ Terminal básica
+  - 📊 Gestor de Tareas
+
+## 🛠️ Tecnologías Usadas
+
+- **Frontend:** HTML5, CSS3 (Tailwind y estilos personalizados), JavaScript puro
+- **Librerías:** Alpine.js (para el calendario), FontAwesome (íconos)
+- **Gestión de ventanas:** Sistema propio (clase `WindowManager`)
+- **Estructura modular:** Cada app cargada desde una URL (fetch dinámico)
+
+## 👦 Integrantes
+
+- Angie Leusyeli Barahona Padilla
+
+- Ingrid Daniela Cáceres Castro
+
+- Katerine Gisseth Henriquez Romero
+
+- Ruben Isai Quiroz Zuniga
+
+- Víctor Hugo López Hernández
+
+## 🎓 Créditos Académicos
+Este proyecto fue desarrollado como parte de la asignatura de Sistemas Operativos en la Universidad Politécnica de Honduras, Segundo Periodo 2025.
+
